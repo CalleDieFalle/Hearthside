@@ -1,2 +1,47 @@
+1.2
+  update 1.2 released! 🎉
+  
+  Notable changes:
+  
+  - added Smooth Font
+  - added the default config to hide the ClientSort Buttons
+  - added a recipe to smelt Dimensional Ore to Dimensional Shards
+  - removed RenderScale due to the error message on startup and a visual bug with the viewmodel when changing the scaling
+  
+  minor changes:
+  
+  - bump Advanced Loot Info to 1.8.2
+  - bump AdvancedAE to 1.6.10
+  - bump ae2wtlib to 19.41
+  - bump Aquaculture 2 to 2.7.19
+  - bump ClientSort to 2.2.1
+  - bump Colorwheel to 1.2.2
+  - bump c2me to 0.3.0+alpha0.90
+  - bump CreativeCore to 2.13.35
+  - bump Enderman Overhaul to 2.0.3
+  - bump Euphoria Patches to 1.8.6
+  - bump Extreme Sound Muffler to 3.55
+  - bump Farmer's Cutting: Regions Unexplored to 1.1b
+  - bumb GeckoLib to 4.8.4
+  - bump JamLib to 1.3.6
+  - bump Lithium to 0.15.3
+  - bump Lootr to 1.11.36.117
+  - bump Macaw's Bridges to 3.1.2
+  - bump MoonlightLib to 2.29.20
+  - bump MoreCulling to 1.0.7
+  - bump Mystical Agriculture to 8.0.23
+  - bump Not Enough Animations to 1.11.3
+  - bump Oh the Biomes weve Gone to 2.5.5
+  - bump Oh the Trees youll grow to 5.2.1
+  - bump Ok Zoomer to 10.0.0-beta.13
+  - bump Open Parties and Claims to 0.25.10
+  - bump Patchouli to 93
+  - bump Rechiseled to 1.2.4
+  - bump RFToolsUtility to 7.0.11
+  - bump OctoLib to 0.6.1
+  - bump SkinsLayers3d to 1.10.2
+  - bump Supplementaries to 3.5.29
+  - bump Icon Xaero's to 1.22
+
 1.1 
   - Modpack release 🎉
