@@ -1,3 +1,54 @@
+1.3
+  Hey, update 1.3 released🎉
+
+  Notable changes: 
+  - added cooking for blockheads
+  - added Farming for Blockheads
+  - added polymorphic energistics
+  - added shrink.
+  - added Mob Grinding Utils
+  - added L_Ender's Cataclysm
+  - added Reliquified L_Ender's Cataclysm
+  - added Apothic Spawners
+  - added AE2 JEI Integration
+  - added AllTheLeaks
+  - added Bad Wither No Cookie - Reloaded
+  - added Colorful Hearts
+  - added Baubley Heart Canisters
+  - removed particlerain
+  - updated to NeoForge 21.1.222
+  - bump Create to 6.0.9
+  
+  minor changes:
+  - bump CorgiLib to 5.0.0.9
+  - bump Coroutil to 1.3.9
+  - bump AdvancedAE to 1.6.11
+  - bump AppleSkin to 3.0.9
+  - bump EntityCulling to 1.10.0
+  - bump Lootr to 1.11.37.118
+  - bump CreativeCore to 2.13.36
+  - bump WaveyCapes to 1.9.0
+  - bump SuperMartijn642's Core Lib to 1.1.21
+  - bump Sophisticated Core to 1.4.14.1584
+  - bump Sophisticated Backpacks to 3.25.36.1629
+  - bump SkinLayers3D to 1.11.1
+  - bump Not Enough Animations to 1.12.0
+  - bump Mystical Agriculture to 8.0.24
+  - bump Mystical Agradditions to 8.0.13
+  - bump MoonlightLib to 2.29.26
+  - bump Macaw's Doors to 1.1.5
+  - bump Macaw's Paintings to 1.1.0
+  - bump Just Enough Mekanism Multiblocks to 7.14
+  - bump Just Enough Archaeology to 1.2.0
+  - bump Farmer's Delight to 1.2.11
+  - bump Cable Facades to 2.0
+  - bump ColorWheel to 1.2.3
+  - bump Create Crafts & Additions to 1.5.10
+  - bump Create Slice & Dice to 4.2.4
+  - bump Create Food to 2.2.0a
+  - bump Create Interiors to 0.6.1
+  - bump EnderIO to 8.2.5
+
 1.2
   update 1.2 released! 🎉
   
